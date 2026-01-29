@@ -1,4 +1,4 @@
-# Vasu-Dev-
+# Vasu Dev 
 # 💫 About Me:
 Currently working on Machine Learning.<br>Good at visualization and analysis.<br>Good at statistics.<br>Good knowledge in Data Structures and Algorithms.<br>Familiar with Power BI and R programming.<br><br>
 
